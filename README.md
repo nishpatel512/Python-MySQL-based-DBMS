@@ -343,4 +343,4 @@ Los Pollos Hermanos supports the following functional requirements:
 
 -[Siddharth Mavani](https://github.com/siddharth-mavani)
 
--[Nish Patel](https://github.com/nishpatel512)
+-[Jainam Gandhi](https://github.com/Jainam1609)
