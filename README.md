@@ -341,5 +341,4 @@ Los Pollos Hermanos supports the following functional requirements:
 
 # Other Contributors
 
-- [Shubh Agarwal](https://github.com/shu7bh)
-- [Swetha Vipparla](https://github.com/SwethaVipparla)
+- [Nish](https://github.com/nishpatel512)
